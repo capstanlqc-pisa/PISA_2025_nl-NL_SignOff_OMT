@@ -2,8 +2,8 @@
 <!DOCTYPE omegat [
   <!ENTITY ORG "capstanlqc-pisa">
   <!ENTITY TARGET_LANG "nl-NL">
-  <!ENTITY THIS_REPO "PISA_2025_&TARGET_LANG;_SignOff_OMT">
   <!ENTITY STEP "SignOff">
+  <!ENTITY THIS_REPO "PISA_2025_&TARGET_LANG;_&STEP;_OMT">
 ]>
 <omegat>
     <project version="1.0">
